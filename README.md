@@ -6,6 +6,8 @@
 
 - [Download on itch](https://mayeclair.itch.io/museum-of-all-things)
 
+This project is a modified version of the [Museum of All Things](https://may.as/moat)
+
 The goal of this project is to make an interactive 3d museum that is generated
 procedurally, using content from wikipedia to fill exhibits. The museum is
 virtually limitless, allowing you to take doors from one exhibit to another,
