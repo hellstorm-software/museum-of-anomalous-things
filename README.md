@@ -1,4 +1,4 @@
-![museum of all things banner](./docs/moat_logo_large_colorful_over_screenshot.png)
+![museum of all things banner](./docs/anomuseum.png)
 
 - **[Project homepage](https://may.as/moat)**
 
